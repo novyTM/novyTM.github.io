@@ -1,6 +1,6 @@
 # Przemek Nowakowski
 
-##Kim jestem ?##
+*Kim jestem ?*
 - Graczem
 - Przyszłym programistą
 - Amatorskim fotografem
